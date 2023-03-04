@@ -10,7 +10,7 @@ import {
 
 const Footer = () => {
     return (
-        <div className="mx-auto grid max-w-[1240px] gap-8 py-16 px-10 text-slate-300 lg:grid-cols-3">
+        <div className="mx-auto grid max-w-[1240px] gap-8 py-16 px-4 text-slate-300 lg:grid-cols-3">
             <div className="lg:col-span-1">
                 <h1 className="w-full text-3xl font-bold text-tealx">REACC.</h1>
                 <p className="py-4">
@@ -34,7 +34,7 @@ const Footer = () => {
                     <ul>
                         <li className="py-2 text-sm">Analytics</li>
                         <li className="py-2 text-sm">Marketing</li>
-                        <li className="py-2 text-sm">Commerce</li>
+                        <li className="py-2 text-sm">Business</li>
                         <li className="py-2 text-sm">Insights</li>
                     </ul>
                 </div>
