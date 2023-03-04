@@ -5,10 +5,10 @@ const Hero = () => {
     return (
         <div className="text-slate-200">
             <div className="mx-auto mt-[-96px] flex h-screen w-full max-w-[800px] flex-col justify-center px-2 text-center">
-                <p className="p-2 font-bold text-tealx">
+                <p className="px-2 p-2 font-bold text-tealx">
                     GROWING WITH DATA ANALYTICS
                 </p>
-                <h1 className="text-4xl font-bold sm:text-6xl md:text-7xl">
+                <h1 className="px-2 text-4xl font-bold sm:text-6xl md:text-7xl">
                     Grow with data.
                 </h1>
                 <div className="flex items-center justify-center">
@@ -23,7 +23,7 @@ const Hero = () => {
                         loop
                     />
                 </div>
-                <p className="md:py-2 font-bold text-slate-500 text-lg">
+                <p className="px-2 md:py-2 font-bold text-slate-500 text-lg">
                     Monitor your&nbsp;data analytics to increase revenue
                     for&nbsp;BTB, BTC & SAAS platforms.
                 </p>
