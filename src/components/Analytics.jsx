@@ -20,7 +20,7 @@ const Analytics = () => {
                         assumenda, illum quisquam facilis, velit animi hic magni
                         id.
                     </p>
-                    <button className="my-6 mx-auto w-[200px] rounded-lg bg-black py-3 font-bold text-tealx md:mx-0">
+                    <button className="mt-6 mx-auto w-[200px] rounded-lg bg-black py-3 font-bold text-tealx md:mx-0">
                         Get Started
                     </button>
                 </div>

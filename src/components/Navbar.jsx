@@ -39,7 +39,7 @@ const Navbar = () => {
                 className={
                     "fixed" +
                     (nav ? " left-[0] " : " left-[-50%] ") +
-                    "top-0 z-20 h-full w-[50%] border-r border-r-teal-900 bg-neutral-900 duration-500 ease-mb-sig-2"
+                    "top-0 z-20 h-[120%] w-[50%] border-r border-r-teal-900 bg-neutral-900 duration-500 ease-mb-sig-2"
                 }
             >
                 <h1 className="m-4 mt-[30px] w-full text-3xl font-bold text-tealx">
